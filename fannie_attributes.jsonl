@@ -1,0 +1,12 @@
+{"instruction": "What is Loan Number?", "output": "Definition: A unique number assigned to each mortgage loan by Fannie Mae. | Data Type: VARCHAR2"}
+{"instruction": "What is Acquisition Date?", "output": "Definition: The date on which Fannie Mae acquired the loan. Some loans acquired prior to 2008 may have Acquisition Date before the Note Date. | Data Type: DATE"}
+{"instruction": "What is Note Date?", "output": "Definition: The date on which the mortgage note or deed of trust is executed. | Data Type: DATE"}
+{"instruction": "What is Maturity Date at Acquisition?", "output": "Definition: The date the final scheduled payment of principal and interest is due on the mortgage. | Data Type: DATE"}
+{"instruction": "What is Original Loan Amount?", "output": "Definition: The original principal balance of the mortgage at the time of acquisition by Fannie Mae. | Data Type: NUMBER"}
+{"instruction": "What is Current Loan Amount?", "output": "Definition: The outstanding principal balance of the mortgage as of the reporting date. | Data Type: NUMBER"}
+{"instruction": "What is Original Interest Rate?", "output": "Definition: The initial interest rate on the mortgage at the time of acquisition. | Data Type: NUMBER"}
+{"instruction": "What is Current Interest Rate?", "output": "Definition: The current interest rate on the mortgage as of the reporting date. | Data Type: NUMBER"}
+{"instruction": "What is Property Type?", "output": "Definition: The type of multifamily property securing the loan. | Allowable Values: Multifamily, Manufactured Housing Community, Student Housing, Senior Housing, Healthcare, Other | Data Type: VARCHAR2"}
+{"instruction": "What is Property State?", "output": "Definition: The state in which the property is located. | Allowable Values: Two-letter state abbreviations | Data Type: VARCHAR2"}
+{"instruction": "What is Metro Area?", "output": "Definition: The Metropolitan Statistical Area (MSA) in which the property is located. | Data Type: VARCHAR2"}
+{"instruction": "What is Units?", "output": "Definition: The total number of rental units in the property. | Data Type: NUMBER"}

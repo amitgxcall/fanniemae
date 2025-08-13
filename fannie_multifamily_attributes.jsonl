@@ -1,0 +1,25 @@
+{"instruction": "What is Loan Number?", "output": "Definition: A unique number assigned to each mortgage loan by Fannie Mae. | Data Type: VARCHAR2"}
+{"instruction": "What is Acquisition Date?", "output": "Definition: The date on which Fannie Mae acquired the loan. Some loans acquired prior to 2008 may have Acquisition Date before the Note Date. | Data Type: DATE"}
+{"instruction": "What is Note Date?", "output": "Definition: The date on which the mortgage note or deed of trust is executed. | Data Type: DATE"}
+{"instruction": "What is Maturity Date at Acquisition?", "output": "Definition: The date the final scheduled payment of principal and interest is due per the loan documents. | Data Type: DATE"}
+{"instruction": "What is Loan Acquisition UPB?", "output": "Definition: At acquisition the UPB of the loan. | Data Type: NUMBER"}
+{"instruction": "What is Original Interest Rate?", "output": "Definition: The interest rate on the mortgage at the time of acquisition by Fannie Mae. | Data Type: NUMBER"}
+{"instruction": "What is Current Interest Rate?", "output": "Definition: The interest rate on the mortgage as of the reporting date. | Data Type: NUMBER"}
+{"instruction": "What is Property Type?", "output": "Definition: The type of multifamily property securing the loan. | Allowable Values: Multifamily, Manufactured Housing Community, Student Housing, Senior Housing, Cooperative Housing, Other | Data Type: VARCHAR2"}
+{"instruction": "What is Property State?", "output": "Definition: The state in which the property is located. | Allowable Values: Two-letter state abbreviations | Data Type: VARCHAR2"}
+{"instruction": "What is Metro Area?", "output": "Definition: The Metropolitan Statistical Area in which the property is located. | Data Type: VARCHAR2"}
+{"instruction": "What is Property Units?", "output": "Definition: Total number of units in the property. | Data Type: NUMBER"}
+{"instruction": "What is Affordable Units?", "output": "Definition: Number of affordable units in the property. | Data Type: NUMBER"}
+{"instruction": "What is Loan Purpose?", "output": "Definition: The purpose of the mortgage loan. | Allowable Values: Purchase, Refinance, Construction to Permanent | Data Type: VARCHAR2"}
+{"instruction": "What is Interest Rate Type?", "output": "Definition: Indicates whether the mortgage has a fixed or variable interest rate. | Allowable Values: Fixed, Variable | Data Type: VARCHAR2"}
+{"instruction": "What is Current Loan Status?", "output": "Definition: The current payment status of the loan. | Allowable Values: Current, 30 Days Delinquent, 60 Days Delinquent, 90+ Days Delinquent, In Foreclosure, REO | Data Type: VARCHAR2"}
+{"instruction": "What is Net Cash Flow?", "output": "Definition: The property's net cash flow used in loan underwriting. | Data Type: NUMBER"}
+{"instruction": "What is Debt Service Coverage Ratio?", "output": "Definition: The ratio of net operating income to debt service. | Data Type: NUMBER"}
+{"instruction": "What is Loan to Value Ratio?", "output": "Definition: The ratio of the loan amount to the property value at origination. | Data Type: NUMBER"}
+{"instruction": "What is Property Value?", "output": "Definition: The appraised value of the property at loan origination. | Data Type: NUMBER"}
+{"instruction": "What is Year Built?", "output": "Definition: The year the property was built or substantially renovated. | Data Type: NUMBER"}
+{"instruction": "What is Physical Occupancy?", "output": "Definition: The percentage of units that are physically occupied. | Data Type: NUMBER"}
+{"instruction": "What is Economic Occupancy?", "output": "Definition: The percentage of potential rental income actually collected. | Data Type: NUMBER"}
+{"instruction": "What is Most Recent Financial Statement Date?", "output": "Definition: The date of the most recent financial statement on file. | Data Type: DATE"}
+{"instruction": "What is Green Lending?", "output": "Definition: Indicates if the loan qualifies for Fannie Mae's green lending programs. | Allowable Values: Y, N | Data Type: VARCHAR2"}
+{"instruction": "What is Green Classification?", "output": "Definition: The specific green program classification if applicable. | Allowable Values: Green Building Certification, Green Rewards, Healthy Housing Rewards, Renewable Energy | Data Type: VARCHAR2"}

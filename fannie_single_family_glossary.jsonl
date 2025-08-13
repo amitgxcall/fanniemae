@@ -1,0 +1,37 @@
+{"instruction": "What is Adjusted Remaining Months To Maturity?", "output": "Definition: The number of calendar months remaining until the borrower is expected to pay the mortgage loan in full. | Notes: This field will be left blank for mortgage loans that have been modified. For fixed-rate mortgage loans, we take into account the impact of any curtailments in calculating Remaining Months to Maturity."}
+{"instruction": "What is Asset Recovery Costs?", "output": "Definition: Expenses associated with removing occupants and personal property from an occupied property post foreclosure. | Notes: Such expenses include relocation assistance, deed-in-lieu fee, and fees and costs associated with eviction actions. This field will be populated 90 days after the disclosed Disposition Date."}
+{"instruction": "What is Channel?", "output": "Definition: Indicates the source of the mortgage loan. | Allowable Values: R (Retail), B (Broker), C (Correspondent), T (TPO Not Specified)"}
+{"instruction": "What is Credit Score?", "output": "Definition: A value, created using the Fannie Mae classic credit score, that is derived from the borrower's credit profile to represent creditworthiness. | Notes: For mortgage loans with multiple borrowers, this represents the representative credit score used in loan origination. | Allowable Values: 300-850"}
+{"instruction": "What is Current Actual UPB?", "output": "Definition: The outstanding principal balance of the mortgage loan as calculated by Fannie Mae."}
+{"instruction": "What is Current Interest Rate?", "output": "Definition: The current interest rate on the mortgage loan."}
+{"instruction": "What is Current Loan Delinquency Status?", "output": "Definition: The number of months the obligor is delinquent, by month. | Allowable Values: 0, 1, 2, 3, 4, 5, 6"}
+{"instruction": "What is Debt-To-Income Ratio?", "output": "Definition: A ratio calculated at the time of origination for the mortgage loan. This ratio is the result of the borrower's monthly debt payments divided by monthly income."}
+{"instruction": "What is Defect Settlement Date?", "output": "Definition: The date of a negotiated settlement with the lender that includes a make-whole payment by the lender to Fannie Mae."}
+{"instruction": "What is Delinquency Due Date?", "output": "Definition: The due date of the oldest unpaid scheduled monthly installment."}
+{"instruction": "What is Disposition Date?", "output": "Definition: The date of the final disposition of the property (i.e., final sale to a third party)."}
+{"instruction": "What is First Payment Date?", "output": "Definition: The due date of the first scheduled monthly installment of the mortgage loan, regardless of when the first payment was actually made by the borrower."}
+{"instruction": "What is First Time Home Buyer Indicator?", "output": "Definition: Indicates whether the borrower is a first-time homebuyer. | Allowable Values: Y (Yes), N (No)"}
+{"instruction": "What is Foreclosure Date?", "output": "Definition: The date foreclosure proceedings were completed."}
+{"instruction": "What is Last Paid Installment Date?", "output": "Definition: The due date of the last fully paid scheduled monthly installment."}
+{"instruction": "What is Loan Age?", "output": "Definition: The number of months since the origination month."}
+{"instruction": "What is Loan Sequence Number?", "output": "Definition: A unique identifier assigned to each mortgage loan."}
+{"instruction": "What is Loan-To-Value Ratio?", "output": "Definition: A ratio calculated at the time of origination for the mortgage loan. This ratio is the result of the mortgage loan amount at origination divided by the lesser of the mortgaged property's appraised value at origination or its purchase price."}
+{"instruction": "What is Maturity Date?", "output": "Definition: The month in which the final scheduled monthly installment of a mortgage loan is due."}
+{"instruction": "What is Metropolitan Statistical Area?", "output": "Definition: The code corresponding to a Metropolitan Statistical Area, as defined by the Office of Management and Budget."}
+{"instruction": "What is Modification Flag?", "output": "Definition: Indicates whether the mortgage loan has been modified. | Allowable Values: Y (Yes), N (No)"}
+{"instruction": "What is Monthly Reporting Period?", "output": "Definition: The month and year that pertain to the servicer's data submission."}
+{"instruction": "What is Mortgage Insurance Percentage?", "output": "Definition: The percentage of loss coverage that the mortgage insurance coverage provides to Fannie Mae."}
+{"instruction": "What is Number of Borrowers?", "output": "Definition: Identifies the number of borrowers who are obligated to repay the mortgage loan. | Allowable Values: 1-10"}
+{"instruction": "What is Number of Units?", "output": "Definition: The number of units comprising the related mortgaged property. | Allowable Values: 1-4"}
+{"instruction": "What is Occupancy Status?", "output": "Definition: Indicates whether the mortgage property will be occupied by a borrower as a primary residence, a second home, or as an investment property. | Allowable Values: P (Primary), S (Second), I (Investment)"}
+{"instruction": "What is Original Combined Loan-To-Value Ratio?", "output": "Definition: A ratio calculated at the time of origination for the mortgage loan. This ratio is the result of the mortgage loan amount at origination plus any secondary liens divided by the lesser of the mortgaged property's appraised value at origination or its purchase price."}
+{"instruction": "What is Original Interest Rate?", "output": "Definition: The original interest rate on the mortgage loan as specified in the note at the time of origination."}
+{"instruction": "What is Original UPB?", "output": "Definition: The mortgage loan amount at the time of origination."}
+{"instruction": "What is Prepayment Penalty Mortgage Flag?", "output": "Definition: Indicates whether the mortgage loan has a prepayment penalty. | Allowable Values: Y (Yes), N (No)"}
+{"instruction": "What is Product Type?", "output": "Definition: Indicates whether the mortgage loan's interest rate at the time of origination is fixed for a period of at least 5 years or adjustable. | Allowable Values: FRM (Fixed Rate Mortgage)"}
+{"instruction": "What is Property State?", "output": "Definition: The state within which the mortgaged property is located. | Allowable Values: Two-letter state abbreviations"}
+{"instruction": "What is Property Type?", "output": "Definition: Indicates whether the mortgage property is a condominium, cooperative share, Planned Unit Development, or other. | Allowable Values: CO (Condo), PU (PUD), MH (Manufactured Housing), SF (Single Family), CP (Co-op)"}
+{"instruction": "What is Seller Name?", "output": "Definition: The entity that sold the mortgage loan to Fannie Mae."}
+{"instruction": "What is Servicer Name?", "output": "Definition: The entity that services the mortgage loan as of the monthly reporting period."}
+{"instruction": "What is Zero Balance Code?", "output": "Definition: A code indicating the reason the mortgage loan's balance was reduced to zero. | Allowable Values: 01 (Prepaid), 02 (Third Party Sale), 03 (Short Sale), 09 (Deed in Lieu), 15 (Note Sale), 16 (Repurchase)"}
+{"instruction": "What is Zero Balance Effective Date?", "output": "Definition: The date the mortgage loan balance was reduced to zero."}
