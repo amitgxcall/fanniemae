@@ -1,0 +1,72 @@
+[
+  ["Single-Family Mortgage", "A mortgage loan secured by a property with 1-4 residential units where the borrower typically occupies one of the units, conforming to Fannie Mae's guidelines for residential properties."],
+  
+  ["Multi-Family Mortgage", "A commercial real estate loan secured by a property with 5 or more residential units, typically apartment buildings, subject to Fannie Mae's multi-family underwriting and eligibility requirements."],
+  
+  ["Delegated Underwriting and Servicing (DUS)", "Fannie Mae's program for multi-family loans that delegates underwriting, closing, and servicing to approved lenders while providing them with certainty of execution, speed, and flexibility."],
+  
+  ["HomeReady Mortgage", "A Fannie Mae single-family loan product designed for creditworthy low-income borrowers, offering expanded eligibility for financing homes in low-income communities with lower down payment requirements."],
+  
+  ["Small Loans Program", "A Fannie Mae multi-family financing option designed for loans between $750,000 and $6 million with streamlined pricing, underwriting, and processing for smaller rental properties."],
+  
+  ["Fannie Mae", "Fannie Mae (Federal National Mortgage Association) is a government-sponsored enterprise that purchases mortgages from lenders, packages them into mortgage-backed securities, and sells them to investors, providing liquidity to the mortgage market."],
+  
+  ["Conventional Loan", "A conventional loan is a mortgage that is not guaranteed or insured by any government agency, typically requiring a minimum credit score of 620 and a down payment of at least 3% for first-time homebuyers."],
+  
+  ["Debt-to-Income Ratio", "Debt-to-Income (DTI) ratio is a financial measurement that compares a borrower's total monthly debt obligations to their gross monthly income, expressed as a percentage. Fannie Mae typically requires a DTI ratio of 45% or less for most conventional loans."],
+  
+  ["Loan-to-Value Ratio", "Loan-to-Value (LTV) ratio is the percentage of a property's value that is financed by a mortgage loan. A higher LTV ratio represents more risk to the lender. Fannie Mae typically requires mortgage insurance for loans with LTV ratios above 80%."],
+  
+  ["HomeReady Mortgage", "HomeReady is a Fannie Mae mortgage product designed for creditworthy low-income borrowers, offering expanded eligibility for financing homes in low-income communities with down payments as low as 3%."],
+  
+  ["Desktop Underwriter", "Desktop Underwriter (DU) is Fannie Mae's automated underwriting system that evaluates mortgage loan applications against Fannie Mae's eligibility requirements. It provides a comprehensive credit risk assessment and determines the loan's eligibility for delivery to Fannie Mae."],
+  
+  ["Mortgage-Backed Security", "A mortgage-backed security (MBS) is a financial instrument representing an ownership interest in a pool of mortgage loans. Fannie Mae purchases mortgages from lenders, bundles them, and issues MBS to investors, thereby creating liquidity in the mortgage market."],
+  
+  ["Private Mortgage Insurance", "Private Mortgage Insurance (PMI) is a type of insurance that protects lenders against loss if a borrower defaults on a conventional loan with a down payment of less than 20%. Fannie Mae requires PMI for loans with LTV ratios greater than 80%."],
+  
+  ["High-Balance Loan", "A high-balance loan is a conventional mortgage with a loan amount that exceeds the standard conforming loan limits but is still eligible for purchase by Fannie Mae based on higher limits established for high-cost areas."],
+  
+  ["Delegated Underwriting and Servicing", "Delegated Underwriting and Servicing (DUS) is Fannie Mae's multifamily lending program that allows approved lenders to underwrite, close, and sell loans to Fannie Mae while retaining risk through a loss-sharing agreement."],
+  
+  ["Multifamily Mortgage", "A multifamily mortgage is a loan for properties with five or more residential units. Fannie Mae's multifamily financing provides liquidity, stability, and affordability to the rental housing market across the United States."],
+  
+  ["Single-Family Mortgage", "A single-family mortgage is a loan for residential properties with one to four units. Fannie Mae's single-family business helps make fixed-rate and adjustable-rate mortgages available to homebuyers and refinancers."],
+  
+  ["Community Lending", "Community lending refers to Fannie Mae's initiatives designed to increase affordable housing options and expand access to mortgage credit for underserved populations and communities."],
+  
+  ["Cash-Out Refinance", "A cash-out refinance is a mortgage refinancing option where the borrower refinances for more than they owe on their existing loan and takes the difference in cash. Fannie Mae has specific guidelines for cash-out refinances regarding LTV limits and seasoning requirements."],
+  
+  ["Conforming Loan", "A conforming loan is a mortgage that meets the funding criteria and loan limits established by Fannie Mae and Freddie Mac. These loans adhere to specific standards regarding credit score, loan size, and debt-to-income ratio."],
+  
+  ["Rate-and-Term Refinance", "A rate-and-term refinance is a mortgage refinancing transaction in which the new loan amount is limited to the unpaid principal balance of the existing loan plus settlement costs. Fannie Mae offers more favorable terms for rate-and-term refinances compared to cash-out refinances."],
+  
+  ["Loan Modification", "A loan modification is a change to the original terms of a mortgage loan, typically to provide payment relief for borrowers facing financial hardship. Fannie Mae offers various loan modification options as part of its loss mitigation efforts."],
+  
+  ["Property Appraisal", "A property appraisal is an assessment of a home's market value performed by a licensed appraiser. Fannie Mae requires appraisals for most mortgage transactions to ensure the property provides adequate collateral for the loan."],
+  
+  ["Uniform Residential Loan Application", "The Uniform Residential Loan Application (URLA), also known as Fannie Mae Form 1003, is the standard form used by borrowers to apply for a mortgage loan across the industry."],
+  
+  ["Foreclosure Alternative", "Foreclosure alternatives are options that Fannie Mae offers to help borrowers avoid foreclosure, including loan modifications, repayment plans, forbearance, short sales, and deed-in-lieu of foreclosure."],
+  
+  ["Housing Expense Ratio", "The housing expense ratio (or front-end ratio) is the percentage of a borrower's gross monthly income that goes toward housing expenses. Fannie Mae typically prefers this ratio to be 28% or less."],
+  
+  ["Automated Valuation Model", "An Automated Valuation Model (AVM) is a computer-driven model that estimates property values based on market data and mathematical modeling. Fannie Mae uses AVMs in certain situations to supplement or replace traditional appraisals."],
+  
+  ["Green Financing", "Green financing refers to Fannie Mae's mortgage programs that incentivize energy and water efficiency improvements in single-family homes and multifamily properties, offering preferential loan terms for qualifying properties."],
+  
+  ["Selling Guide", "The Fannie Mae Selling Guide is a comprehensive document that contains the official policies and procedures for selling single-family mortgages to Fannie Mae, serving as the authoritative source for lender requirements."],
+  
+  ["Servicing Guide", "The Fannie Mae Servicing Guide outlines the requirements for servicing Fannie Mae mortgage loans, including payment processing, escrow administration, default management, and foreclosure procedures."],
+  
+  ["Manufactured Housing Loan", "A manufactured housing loan is financing for factory-built homes that meet Fannie Mae's eligibility requirements. These loans have specific guidelines regarding the home's construction, installation, and titling."],
+  
+  ["Condo Project Review", "Condo project review is Fannie Mae's process for assessing the eligibility of condominium projects for financing. Projects must meet specific requirements regarding occupancy, financial stability, and insurance coverage."],
+  
+  ["HomePath Property", "A HomePath property is a foreclosed home owned by Fannie Mae. These properties are sold through the HomePath program, often with special financing options available to both owner-occupants and investors."],
+  
+  ["Collateral Underwriter", "Collateral Underwriter (CU) is Fannie Mae's automated appraisal risk assessment tool that evaluates appraisal quality, flags potential issues, and provides a risk score to help lenders manage collateral risk."],
+  
+  ["Affordable Housing", "Affordable housing refers to Fannie Mae's initiatives to finance housing for low- and moderate-income families, including support for subsidized housing, workforce housing, and naturally occurring affordable housing."]
+
+]

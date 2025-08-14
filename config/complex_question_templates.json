@@ -28,5 +28,10 @@
     "What data is needed to support {term}?",
     "How does {term} align with industry standards?",
     "What is the strategic importance of {term}?",
-    "How does {term} impact housing affordability?"
+    "How does {term} impact housing affordability?",
+      "What are the key differences between {term1} and {term2} for borrowers?",
+  "How do the eligibility requirements for {term} differ between single-family and multi-family properties?",
+  "What special financing options are available for {term}?",
+  "How does Fannie Mae determine pricing for {term}?",
+  "What are the loan limits for {term} in high-cost areas?"
 ]

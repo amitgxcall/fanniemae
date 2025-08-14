@@ -53,5 +53,9 @@
     "risk_management": "Enterprise risk management frameworks and practices",
     "financial_crime": "Financial crime prevention strategies",
     "aml": "Anti-money laundering procedures in mortgage lending",
-    "kyc": "Know Your Customer processes and requirements"
+    "kyc": "Know Your Customer processes and requirements",
+    "single_family_products": "Fannie Mae single-family mortgage products including fixed-rate, adjustable-rate, and special programs",
+  "single_family_eligibility": "Eligibility requirements for Fannie Mae single-family loan products",
+  "multi_family_products": "Fannie Mae multi-family financing options for apartment buildings and other rental properties",
+  "multi_family_underwriting": "Underwriting standards and processes for Fannie Mae multi-family loans"
 }

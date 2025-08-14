@@ -1,5 +1,25 @@
 {
     "requirements": {
+
+    "single_family_products": [
+      "Minimum credit score requirements (typically 620 for standard products, 680 for certain specialized products)",
+      "Maximum loan-to-value ratios based on occupancy type, property type, and transaction type",
+      "Debt-to-income ratio limits, generally not exceeding 45% for most borrowers",
+      "Property must meet Fannie Mae's property standards and appraisal requirements",
+      "Borrower must meet income documentation and verification requirements",
+      "Mortgage insurance requirements for loans with LTV greater than 80%",
+      "Conforming loan limits, updated annually by FHFA"
+    ],
+    "multi_family_products": [
+      "Property must have a minimum of 5 residential units to qualify for multi-family financing",
+      "Debt service coverage ratio (DSCR) requirements, typically 1.25x or higher depending on property type",
+      "Maximum loan-to-value ratios based on property type, typically 80% for conventional properties",
+      "Detailed property inspection and environmental assessment requirements",
+      "Property performance history documentation for existing properties",
+      "Borrower experience requirements for property ownership and management",
+      "Reserve requirements for replacement and repairs"
+    ]
+    ,
         "underwriting": [
             "Borrower qualification criteria including credit score minimums (typically 620 or higher), debt-to-income ratios (generally not exceeding 45%), and employment verification.",
             "Property eligibility requirements including acceptable property types, occupancy status, and condition standards.",

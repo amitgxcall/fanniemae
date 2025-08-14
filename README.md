@@ -7,7 +7,7 @@ A comprehensive collection of tools and datasets for extracting, converting, and
 This repository contains:
 - **PDF to JSONL conversion tools** for extracting instruction-output pairs from documents
 - **Web crawling utilities** for systematically extracting content from Fannie Mae websites
-- **Complete Fannie Mae knowledge base** with 248+ instruction-output pairs
+- **Complete Fannie Mae knowledge base** with 37,036+ instruction-output pairs
 - **Multiple specialized datasets** covering different aspects of mortgage lending
 
 ## 🗂️ Repository Contents
@@ -25,7 +25,8 @@ This repository contains:
 
 | File | Entries | Description |
 |------|---------|-------------|
-| `fannie_mae_complete_knowledge_base.jsonl` | **248** | 🎯 **Complete knowledge base** - All Fannie Mae content |
+| `fannie_mae_ultimate_merged_dataset.jsonl` | **37,036** | 🎯 **ULTIMATE MERGED DATASET** - Complete training-ready dataset |
+| `fannie_mae_complete_knowledge_base.jsonl` | **248** | Initial knowledge base - Core Fannie Mae content |
 | `fannie_glossary.jsonl` | 71 | General mortgage/real estate terminology |
 | `fannie_multifamily_attributes.jsonl` | 25 | Multifamily loan data attributes |
 | `fannie_single_family_glossary.jsonl` | 45 | Single-family loan performance terms |
@@ -38,6 +39,7 @@ This repository contains:
 | `parse_fannie_attributes.py` | Extract structured data from Fannie Mae PDFs |
 | `extract_fannie_single_family.py` | Process single-family loan performance data |
 | `compile_fannie_mae_knowledge.py` | Merge and deduplicate all knowledge sources |
+| `merge_specific_jsonl_files.py` | Create ultimate merged dataset from selected files |
 
 ## 🚀 Quick Start
 
@@ -60,8 +62,8 @@ python pdf_to_jsonl.py document.pdf
 ```python
 import json
 
-# Load the complete Fannie Mae knowledge base
-with open('fannie_mae_complete_knowledge_base.jsonl', 'r') as f:
+# Load the ultimate merged Fannie Mae dataset
+with open('fannie_mae_ultimate_merged_dataset.jsonl', 'r') as f:
     knowledge_base = []
     for line in f:
         knowledge_base.append(json.loads(line))
@@ -211,6 +213,12 @@ For questions or issues:
 
 ---
 
-**📄 Total Knowledge Base**: 248 instruction-output pairs covering the complete Fannie Mae ecosystem, ready for AI training, education, and business applications.
+**📄 Ultimate Merged Dataset**: 37,036 instruction-output pairs covering the complete Fannie Mae ecosystem, ready for AI training, education, and business applications.
+
+### 🔥 Featured Dataset: `fannie_mae_ultimate_merged_dataset.jsonl`
+- **37,036 unique entries** (11.4 MB)
+- **Comprehensive coverage** from multiple authoritative sources
+- **Deduplication applied** - 1,945 duplicates removed
+- **Training-ready format** - Perfect for LLM fine-tuning
 
 **🚀 Ready to use**: All datasets are immediately usable for language model training, chatbot development, or educational purposes.# fanniemae

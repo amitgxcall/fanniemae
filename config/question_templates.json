@@ -1,4 +1,5 @@
 [
+
     "What is {term}?",
     "Define {term}.",
     "Can you explain what {term} is?",
@@ -8,5 +9,12 @@
     "What is {term} in mortgage lending?",
     "Explain the concept of {term}.",
     "Please define {term}.",
-    "How would you define {term}?"
+    "How would you define {term}?",
+    "Could you clarify what {term} refers to?",
+    "I'm confused about {term}. What does it mean?",
+    "What exactly is {term}?",
+    "Can you provide a definition for {term}?",
+    "What do we mean by {term}?",
+    "How is {term} defined?",
+    "What's the meaning of {term}?"
 ]
