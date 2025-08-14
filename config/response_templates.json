@@ -1,0 +1,116 @@
+{
+    "requirements": {
+        "underwriting": [
+            "Borrower qualification criteria including credit score minimums (typically 620 or higher), debt-to-income ratios (generally not exceeding 45%), and employment verification.",
+            "Property eligibility requirements including acceptable property types, occupancy status, and condition standards.",
+            "Loan documentation including income verification, asset verification, and property appraisal.",
+            "Compliance with all applicable federal, state, and local regulations.",
+            "Meeting Fannie Mae's specific guidelines for loan parameters including loan-to-value ratios, loan limits, and mortgage insurance requirements when applicable.",
+            "Alignment with Fannie Mae's risk management framework and quality control processes.",
+            "Proper implementation of Fannie Mae's Desktop Underwriter findings and conditions.",
+            "Adherence to Fannie Mae's Selling Guide requirements for the specific loan type and purpose."
+        ],
+        "servicing": [
+            "Adherence to Fannie Mae's Servicing Guide requirements for payment processing, customer service, and record-keeping.",
+            "Maintenance of escrow accounts in compliance with federal regulations and Fannie Mae guidelines.",
+            "Proper handling of delinquencies, loss mitigation, and foreclosure processes according to prescribed timelines.",
+            "Regular reporting and remittance to Fannie Mae according to established schedules.",
+            "Implementation of quality control processes to ensure servicing accuracy and compliance.",
+            "Maintenance of adequate staffing, technology, and financial resources to fulfill servicing obligations.",
+            "Proper implementation of borrower communication protocols and response timelines.",
+            "Management of investor reporting and custodial accounts according to Fannie Mae requirements."
+        ],
+        "compliance": [
+            "Adherence to all applicable federal regulations including TILA, RESPA, ECOA, and the Fair Housing Act.",
+            "Implementation of a comprehensive compliance management system with regular audits and reviews.",
+            "Proper staff training on all relevant regulations and Fannie Mae requirements.",
+            "Accurate and timely reporting to regulatory agencies and Fannie Mae.",
+            "Documentation of policies and procedures that demonstrate compliance with regulatory requirements.",
+            "Regular monitoring of regulatory changes and timely implementation of necessary updates.",
+            "Effective vendor management and oversight of third-party service providers.",
+            "Implementation of adequate data privacy and information security controls."
+        ],
+        "default": [
+            "Adherence to Fannie Mae's published guidelines and requirements in the applicable Selling or Servicing Guide.",
+            "Proper documentation and record-keeping to demonstrate compliance with Fannie Mae standards.",
+            "Regular reporting and communication with Fannie Mae regarding implementation and performance.",
+            "Compliance with all applicable federal, state, and local regulations.",
+            "Integration with existing systems and processes in a way that maintains data integrity and operational efficiency.",
+            "Regular review and updating of policies and procedures to ensure ongoing compliance with evolving requirements.",
+            "Appropriate training and oversight of staff involved in implementing the requirements.",
+            "Implementation of quality control processes to monitor compliance and address any deficiencies."
+        ]
+    },
+    "process": {
+        "underwriting": [
+            "Application: The borrower submits a mortgage application with required documentation.",
+            "Initial Review: The lender reviews the application for completeness and basic eligibility.",
+            "Automated Underwriting: The loan is submitted to Fannie Mae's Desktop Underwriter (DU) for an automated assessment.",
+            "Manual Review: If needed, an underwriter conducts a more detailed review of the loan application.",
+            "Conditions: The lender issues conditional approval with any additional requirements that must be satisfied.",
+            "Final Approval: Once all conditions are met, the loan receives final approval for closing.",
+            "Closing: The loan is closed, and funds are disbursed.",
+            "Delivery to Fannie Mae: The lender delivers the loan to Fannie Mae, where it may be pooled into a mortgage-backed security."
+        ],
+        "servicing": [
+            "Boarding: The loan is set up in the servicer's system after closing or transfer.",
+            "Payment Processing: The servicer collects and processes monthly payments from the borrower.",
+            "Escrow Management: Property taxes and insurance are paid from the escrow account as needed.",
+            "Investor Reporting: The servicer reports loan status and remits payments to Fannie Mae.",
+            "Customer Service: The servicer handles borrower inquiries and requests.",
+            "Delinquency Management: If needed, the servicer works with delinquent borrowers on loss mitigation options.",
+            "Default Servicing: In cases of default, the servicer manages the foreclosure process according to Fannie Mae guidelines.",
+            "Loan Transfers: When applicable, the servicer manages the transfer of servicing rights to another entity."
+        ],
+        "securitization": [
+            "Loan Acquisition: Fannie Mae purchases or guarantees eligible mortgage loans from approved lenders.",
+            "Pool Formation: Similar loans are grouped together into pools based on characteristics like maturity, interest rate, and risk profile.",
+            "Security Issuance: Fannie Mae issues mortgage-backed securities (MBS) that represent ownership interests in these loan pools.",
+            "Credit Enhancement: Various forms of credit enhancement may be applied to improve the risk profile of the securities.",
+            "Sale to Investors: The securities are sold to investors in the capital markets.",
+            "Ongoing Administration: Fannie Mae manages the securities, passing through principal and interest payments from borrowers to investors.",
+            "Reporting: Regular reporting is provided to investors on the performance of the underlying loans and securities.",
+            "Guarantee Management: Fannie Mae manages its guarantee obligations and associated risks."
+        ],
+        "default": [
+            "Assessment: Evaluate current processes and systems to determine how best to implement the specific mortgage function.",
+            "Planning: Develop a comprehensive plan including timeline, resource requirements, and success metrics.",
+            "Development: Create or modify necessary policies, procedures, and systems.",
+            "Testing: Validate that the implementation meets all requirements and performs as expected.",
+            "Training: Ensure all staff understand the new processes and their responsibilities.",
+            "Implementation: Roll out the new process or system, often in phases.",
+            "Monitoring: Continuously track performance and compliance.",
+            "Refinement: Make necessary adjustments based on feedback and performance data."
+        ]
+    },
+    "scenario": {
+        "lender": [
+            "**Guideline Application**: {term} applies to this situation in the following way: For a borrower with specific circumstances, it affects their eligibility and pricing. Carefully assess how {term} interacts with the borrower's complete financial profile and property characteristics.",
+            "**Documentation Requirements**: Ensure you collect and verify all documentation required to properly evaluate {term}, including income verification, asset statements, credit reports, property information, and employment history.",
+            "**Communication Approach**: When explaining {term} to the borrower, focus on how it specifically affects their loan eligibility and terms, any actions they can take to improve their situation, and use clear, non-technical language.",
+            "**Compliance Considerations**: Remember to adhere to all applicable regulations when implementing {term}, including Equal Credit Opportunity Act, Fair Housing Act, Truth in Lending Act, and Ability to Repay rules requirements.",
+            "**Risk Assessment**: Evaluate how {term} affects the overall risk profile of the loan, including both the borrower's ability to repay and the collateral value."
+        ],
+        "training": [
+            "**Fundamental Concepts**: Clearly explain what {term} is and why it matters in mortgage lending, providing context within the broader mortgage finance system.",
+            "**Practical Application**: Demonstrate how {term} is applied in real-world scenarios, including common situations loan officers will encounter and step-by-step processes for implementation.",
+            "**Compliance Framework**: Cover the regulatory requirements and Fannie Mae guidelines related to {term}, emphasizing specific Selling Guide references and common compliance pitfalls.",
+            "**Case Studies and Examples**: Include practical examples that illustrate how {term} affects different borrower scenarios and appropriate vs. inappropriate implementation approaches.",
+            "**Resources and Tools**: Provide information about where to find official Fannie Mae guidance, available technology solutions, and job aids for {term}."
+        ],
+        "impact": [
+            "**Direct Effects**: {term} directly impacts asset quality and performance metrics, risk profile and concentration considerations, pricing and profitability factors, and capital requirements.",
+            "**Quantitative Analysis**: When analyzing the impact of {term}, consider historical performance statistics, benchmark comparisons against industry standards, and correlation with other risk factors.",
+            "**Strategic Considerations**: Your analysis should address how changes in {term} might affect business strategy, potential process optimizations, and long-term sustainability considerations.",
+            "**Recommendations**: Based on this analysis, consider potential policy or procedure updates, staff training needs, technology improvements, and risk mitigation strategies related to {term}.",
+            "**Implementation Timeline**: Develop a realistic timeline for implementing any changes related to {term}, considering system requirements, training needs, and testing phases."
+        ],
+        "default": [
+            "**Application**: {term} applies to this situation in the following ways: It affects eligibility and qualification standards, influences documentation requirements, impacts risk assessment, and may require specific handling procedures.",
+            "**Compliance and Guidelines**: When working with {term}, ensure adherence to Fannie Mae Selling Guide requirements, applicable regulations, internal policies, and industry best practices.",
+            "**Communication Strategy**: Effectively communicate about {term} by using clear language appropriate for your audience, providing specific examples, and addressing potential concerns.",
+            "**Next Steps**: To properly address {term} in this scenario, gather all relevant information and documentation, consult official Fannie Mae resources, and document your analysis and decision-making process.",
+            "**Risk Mitigation**: Identify potential risks associated with {term} in this context and develop appropriate strategies to mitigate these risks while meeting business objectives."
+        ]
+    }
+}
